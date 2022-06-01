@@ -1,0 +1,3 @@
+[submodule "themes/bulminimal"]
+	path = themes/bulminimal
+	url = http://github.com/tehuel/bulminimal
